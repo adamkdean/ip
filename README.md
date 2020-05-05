@@ -1,5 +1,6 @@
 <p align="center">
-  IP Discovery Service
+  IP Discovery Service<br>
+  <a href="https://ip.adamkdean.co.uk/">Visit Site</a>
 </p>
 
 ----
@@ -10,7 +11,7 @@ An IP discovery service that you can query to return your IP.
 
 ### What is the current status?
 
-In progress.
+Up and running.
 
 ----
 
