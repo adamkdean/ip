@@ -24,7 +24,7 @@ docker run \
   --detach \
   --restart always \
   --name $CONTAINER_NAME \
-  --network service-network \
+  --network core-network \
   --expose 8000 \
   --env HTTP_PORT=8000 \
   --env NODE_ENV=production \
